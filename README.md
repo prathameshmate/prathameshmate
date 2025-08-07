@@ -114,3 +114,13 @@ Welcome to my GitHub! I'm a passionate React Native and Full Stack Developer wit
     <img src="https://play-lh.googleusercontent.com/76gEFhQto5xMHr2Qf8nWLvm1s0O60clhkwHvxQDSeI3hthf7Zs05JJQeyg5H347DGQ=w240-h480-rw" alt="Naukri" width="40" height="40"/>
   </a>
 </p>
+---
+
+## ❤ Views and Followers
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prathameshmate&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/prathameshmate?tab=followers">
+    <img src="https://img.shields.io/github/followers/prathameshmate?label=Followers&style=social" alt="GitHub Followe
+
