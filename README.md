@@ -111,6 +111,6 @@ Welcome to my GitHub! I'm a passionate React Native and Full Stack Developer wit
   </a>
   &nbsp;&nbsp;
   <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank" title="Naukri">
-    <img src="https://static.naukimg.com/s/0/0/i/naukri-identity/naukri_gnb_logo.svg" alt="Naukri" width="40" height="40"/>
+    <img src="https://play-lh.googleusercontent.com/76gEFhQto5xMHr2Qf8nWLvm1s0O60clhkwHvxQDSeI3hthf7Zs05JJQeyg5H347DGQ=w240-h480-rw" alt="Naukri" width="40" height="40"/>
   </a>
 </p>
