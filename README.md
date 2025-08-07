@@ -97,14 +97,20 @@ Welcome to my GitHub! I'm a passionate React Native and Full Stack Developer wit
 
 <p><b>NOTE</b> : Most used languages are just calculated from my public repositories and do not represent my skills or experience.</p>
 
-
-
-
-
 ---
 
 ## ✨ Let's Connect!
 
-Feel free to connect and collaborate. I love working on exciting new ideas!
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<p align="center">
+  <a href="https://www.linkedin.com/in/prathamesh-mate-6234431a9/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_pra_tham___?igsh=MXd6NHBheXF0ZzV4OQ==" target="_blank" title="Instagram">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank" title="Naukri">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Naukri.com_Logo.svg" alt="Naukri" width="40" height="40"/>
+  </a>
+</p>
