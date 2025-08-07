@@ -79,12 +79,15 @@ Welcome to my GitHub! I'm a passionate React Native and Full Stack Developer wit
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=prathameshmate&show_icons=true&theme=default&hide_border=false&border_radius=10"
     alt="Prathamesh's GitHub Stats"
     height="180"
   />
+
+<br/>
+
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshmate&layout=compact&theme=default&hide_border=false&border_radius=10"
     alt="Top Languages"
