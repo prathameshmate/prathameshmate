@@ -95,7 +95,11 @@ Welcome to my GitHub! I'm a passionate React Native and Full Stack Developer wit
   />
 </p>
 
-<p align="center"><i>Note: Most used languages are just calculated from my public repositories and do not represent my skills or experience.</i></p>
+<div align="center">
+  <p><strong>Note:</strong></p>
+  <p>Most used languages are just calculated from my public repositories and do not represent my skills or experience.</p>
+</div>
+
 
 
 
