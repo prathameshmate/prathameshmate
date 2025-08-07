@@ -54,10 +54,21 @@ Welcome to my GitHub! I'm a passionate React Native and Full Stack Developer wit
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
 
-  <!-- React Native (reusing React logo) -->
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
-  </a>
+<!-- React Native with different icon -->
+<a href="https://reactnative.dev/" target="_blank" title="React Native">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png" alt="React Native" width="40" height="40" style="background:#000; border-radius:5px;"/>
+</a>
+
+<!-- Redux Toolkit (using Redux icon) -->
+<a href="https://redux-toolkit.js.org/" target="_blank" title="Redux Toolkit">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40"/>
+</a>
+
+<!-- MobX (custom icon) -->
+<a href="https://mobx.js.org/" target="_blank" title="MobX">
+  <img src="https://raw.githubusercontent.com/mobxjs/mobx/main/docs/mobx-logo.png" alt="MobX" width="40" height="40" style="border-radius:5px;"/>
+</a>
+
 
   <!-- Node.js -->
   <a href="https://nodejs.org/en/" target="_blank">
