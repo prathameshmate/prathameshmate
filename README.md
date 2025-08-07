@@ -81,16 +81,19 @@ Welcome to my GitHub! I'm a passionate React Native and Full Stack Developer wit
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=prathameshmate&show_icons=true&theme=radical&hide_border=false&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api?username=prathameshmate&show_icons=true&theme=default&hide_border=false&border_radius=10"
     alt="Prathamesh's GitHub Stats"
     height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshmate&layout=compact&theme=radical&hide_border=false&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshmate&layout=compact&theme=default&hide_border=false&border_radius=10"
     alt="Top Languages"
     height="180"
   />
 </p>
+
+<p align="center"><i>Note: Most used languages are just calculated from my public repositories and do not represent my skills or experience.</i></p>
+
 
 
 ---
