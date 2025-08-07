@@ -56,7 +56,7 @@ Welcome to my GitHub! I'm a passionate React Native and Full Stack Developer wit
 
 <!-- React Native with different icon -->
 <a href="https://reactnative.dev/" target="_blank" title="React Native">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png" alt="React Native" width="40" height="40" style="background:#000; border-radius:5px;"/>
+  <img src="https://raw.githubusercontent.com/prathameshmate/prathameshmate/refs/heads/main/react-native.png" alt="React Native" width="40" height="40" style="background:#000; border-radius:5px;"/>
 </a>
 
 <!-- Redux Toolkit (using Redux icon) -->
