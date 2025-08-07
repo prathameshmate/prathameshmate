@@ -101,13 +101,13 @@ Welcome to my GitHub! I'm a passionate React Native and Full Stack Developer wit
 
 ## ✨ Let's Connect!
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/prathamesh-mate-6234431a9/" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/_pra_tham___?igsh=MXd6NHBheXF0ZzV4OQ==" target="_blank" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/042/127/166/large_2x/instagram-logo-on-square-style-with-transparent-background-free-png.png" alt="Instagram" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank" title="Naukri">
