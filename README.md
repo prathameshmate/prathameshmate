@@ -5,8 +5,6 @@ Welcome to my GitHub! I'm a passionate React Native and Full Stack Developer wit
 <p align="center">
   <img src="https://raw.githubusercontent.com/prathameshmate/prathameshmate/refs/heads/main/coder.jpg" width="800" alt="Developer Icon" />
 </p>
-
-
 ---
 
 ## 🚀 About Me
