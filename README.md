@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate React Native and Full Stack Developer with hands-on experience in building scalable mobile and web applications. I enjoy working with cross-platform technologies, solving real-world problems, and continuously learning new things.
 
-<img align="center" src="https://raw.githubusercontent.com/prathameshmate/prathameshmate/refs/heads/main/coder.jpg" width="1000" alt="Coder Image" />
+<img align="center" src="https://raw.githubusercontent.com/prathameshmate/prathameshmate/refs/heads/main/coder.jpg" maxWidth="600" alt="Coder Image" />
 
 
 ---
