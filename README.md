@@ -66,7 +66,7 @@ Welcome to my GitHub! I'm a passionate React Native and Full Stack Developer wit
 
 <!-- MobX (custom icon) -->
 <a href="https://mobx.js.org/" target="_blank" title="MobX">
-  <img src="https://raw.githubusercontent.com/mobxjs/mobx/main/docs/mobx-logo.png" alt="MobX" width="40" height="40" style="border-radius:5px;"/>
+  <img src="https://mobx.js.org/assets/mobx.png" alt="MobX" width="40" height="40" style="border-radius:5px;"/>
 </a>
 
 
